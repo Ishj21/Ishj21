@@ -7,10 +7,13 @@
 I am Ishan from India, working and learning new technologies. I like to work in mobile development using Google's latest Flutter framework, I have been a tech enthusiast since i first saw a mobile phone and have been trying to make apps for my mobile phones! 
 i am comfortable anywhere as long as my laptop's battery doesn't die.
 
-Skills: JAVA / FLUTTER / FIREBASE 
+Skills: JAVA / FLUTTER / FIREBASE / SQL 
 
-- 🔭 I’m currently working on Flutter Apps 
-- 🌱 I’m currently learning Java 
+- 🔭 I’m currently working on [Study Toolkit App](#Study-Toolkit)
+- 🌱 I’m currently learning Java
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishj21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishanjain21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/details?id=com.blueframe.plasmalead&hl=en_IN&gl=US)  
+
 
 ## Projects
 
@@ -33,7 +36,6 @@ Study Toolkit is still under developement and will be released soon on play stor
 
 ## GitHub Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishj21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishanjain21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/details?id=com.blueframe.plasmalead&hl=en_IN&gl=US)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishj21)](https://github.com/anuraghazra/github-readme-stats)
 
