@@ -16,7 +16,7 @@ Skills: JAVA / FLUTTER / FIREBASE
 
 ### PlasmaLead- India's Plasma Donation App
 
-<img src="https://user-images.githubusercontent.com/49076461/137613820-1d948ba2-09e0-4bf9-ba65-d0a1d391f5d4.png" height="400">
+<img src="https://user-images.githubusercontent.com/49076461/137613820-1d948ba2-09e0-4bf9-ba65-d0a1d391f5d4.png" >
 
 
 Created in the times of need, PlasmaLead is a Plasma/Blood donation app which can help save lives by finding nearest blood/plasma donor or donating our blood/plasma to a person in need. Created using Flutter and Firebase, **PlasmaLead is a published app on [Play Store](https://play.google.com/store/apps/details?id=com.blueframe.plasmalead&hl=en_IN&gl=US)** having :star2:4.9 star rating
