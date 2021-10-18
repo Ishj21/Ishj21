@@ -4,8 +4,8 @@
 # Ishan Jain
 #### Flutter Developer
 
-I am Ishan from India, working and learning new technologies. I like to work in mobile development using Google's latest Flutter framework, I have been a tech enthusiast since i first saw a mobile phone and have been trying to make apps for my mobile phones! 
-i am comfortable anywhere as long as my laptop's battery doesn't die.
+Hi! I am Ishan from India, currently pursuing BCA. I like to work in mobile development using Google's latest Flutter framework, I have been a tech enthusiast since i first saw a mobile phone and have been trying and learning software development technologies since.
+
 
 Skills: JAVA / FLUTTER / FIREBASE / SQL 
 
