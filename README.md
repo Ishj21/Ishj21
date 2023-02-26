@@ -9,8 +9,8 @@ Hi! I am Ishan from India, currently pursuing BCA. I like to work in mobile deve
 
 Skills: JAVA / FLUTTER / FIREBASE / SQL 
 
-- 🔭 I’m currently working on [Study Toolkit App](#Study-Toolkit)
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on [Myself!](#)
+- 🌱 I’m currently learning Python, ML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishj21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishanjain21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/details?id=com.blueframe.plasmalead&hl=en_IN&gl=US)  
 
@@ -35,6 +35,13 @@ Designed using Adobe XD and created using Flutter and Firebase, **PlasmaLead is 
 A Flutter based study toolkit consisting of important study tools such as pomodoro, to-do list etc.. Developed keeping in mind, the needs of students and people who need boosts in their productivity.
 
 **Study Toolkit is still under developement and will be released soon on play store!**
+
+### CryptoTrack & News
+![CryptoTrack & News](https://user-images.githubusercontent.com/49076461/221396551-fee2e11e-a74c-4bb1-9cd8-b2925280e1a2.jpg)
+
+A flutter-based feature rich cryptocurrency and its related news tracker with both android and web application.
+
+**CryptoTrack & News is still under developement and will be released soon on play store!**
 
 
 ## GitHub Stats
