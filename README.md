@@ -37,7 +37,7 @@ A Flutter based study toolkit consisting of important study tools such as pomodo
 **Study Toolkit is still under developement and will be released soon on play store!**
 
 ### CryptoTrack & News
-![CryptoTrack & News](https://user-images.githubusercontent.com/49076461/221396551-fee2e11e-a74c-4bb1-9cd8-b2925280e1a2.jpg)
+![CryptoTrack & News](https://user-images.githubusercontent.com/49076461/221396603-416921cf-a020-48cd-9d8f-b61e312f7737.png)
 
 A flutter-based feature rich cryptocurrency and its related news tracker with both android and web application.
 
